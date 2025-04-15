@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Artur de Lima Wanderley
+* Email (@ccc):artur.lima.wanderley@ccc.ufcg.edu.br 
+* Matrícula:123210598 
 
 # Roteiro: isAVL
 
